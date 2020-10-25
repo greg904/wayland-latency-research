@@ -1,0 +1,5 @@
+# Build files
+*.o
+/example-app/protocol/*.h
+/example-app/protocol/*.c
+/example-app/example-app
